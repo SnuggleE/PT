@@ -1,0 +1,28 @@
+{
+  "name": "pt",
+  "version": "1.0.0",
+  "description": "graphic lib use canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnuggleE/PT.git"
+  },
+  "keywords": [
+    "canvas",
+    "web",
+    "graphic",
+    "html5"
+  ],
+  "author": "ljk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SnuggleE/PT/issues"
+  },
+  "homepage": "https://github.com/SnuggleE/PT#readme",
+  "devDependencies": {
+    "lodash": "^4.17.20"
+  }
+}
